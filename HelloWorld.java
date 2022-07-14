@@ -6,7 +6,6 @@ public class HelloWorld {
         Scanner scan = new Scanner(System.in);
         
         System.out.println("What do you want me to say?");
-        String message = scan.nextLine();
         
         System.out.println("Temp");
     }
