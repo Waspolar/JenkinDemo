@@ -7,6 +7,7 @@ public class HelloWorld {
         
         System.out.println("What do you want me to say?");
         String message = scan.nextLine();
-        System.out.println(message);
+        
+        System.out.println("Temp");
     }
 }

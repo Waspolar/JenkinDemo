@@ -5,3 +5,11 @@
 build
 /.metadata/
 /HelloWorld.class
+/client.class
+/Client.class
+/Serverside.class
+/Dsender.class
+/Dreceiver.class
+/StreamReceiver.class
+/StreamSender.class
+/StreamReciever.class
