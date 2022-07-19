@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class HelloWorld extends Thread{
+public class HelloWorld {
 	
 	
 	 
