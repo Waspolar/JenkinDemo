@@ -10,7 +10,7 @@
 	 
     public void run(){
 
-       System.out.println("MyThread running");
+        System.out.println(Thread.currentThread().getName() + " is running...");    
        System.out.println(name + ": Say my name first!");
 
     }
