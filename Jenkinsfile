@@ -8,7 +8,7 @@ pipeline {
                      sh './gradlew sonarqube \
                      -Dsonar.projectKey=${sonarJenkin} \
                      -Dsonar.host.url=${"http://localhost:9000/projects"} \
-                     -Dsonar.login=${sqp_e7da87de564abb367832f0aff0408a6c1d9243d2} \
+                     -Dsonar.login=${sqp_2a697d0f01138da73dc6a19424ce47ea848de2e4} \
                      -Dsonar.projectName=${sonarJenkin} \
                      -Dsonar.projectVersion=${"not provided"}'
                     }
